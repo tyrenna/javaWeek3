@@ -28,7 +28,7 @@ public class namesweek3codingassignment {
 		names1[3] + " " + 
 		names1[4] + " " + 
 		names1[5]);
-		//
+		
 		
 		
 		
