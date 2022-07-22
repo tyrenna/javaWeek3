@@ -1,6 +1,6 @@
 package codingassignment;
 
-public class namesweek3codingassignment {
+public class otherpractice {
 
 	public static void main(String[] args) {
 		// Coding Step 2a
@@ -11,7 +11,7 @@ public class namesweek3codingassignment {
 		System.out.println("Names Length: " + stringlength);
 		System.out.println("Names Average: " + stringlength / 6);
 		
-		// Coding Step 2b
+		// Coding Step 2b other
 		
 		String[] names1 = new String [6];
 		names1[0] = "Sam";
@@ -21,13 +21,14 @@ public class namesweek3codingassignment {
 		names1[4] = "Buck";
 		names1[5] = "Bob";
 
-		for (int i = 0; i < names1.length; i++){
-			
-			System.out.print(names1[i]);
+		System.out.println("Names Concatenate: " +
+		names1[0] + " " + 
+		names1[1] + " " + 
+		names1[2] + " " + 
+		names1[3] + " " + 
+		names1[4] + " " + 
+		names1[5]);
 		
-		
-		
-		}
 
 	}
 
