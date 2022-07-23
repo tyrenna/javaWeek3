@@ -13,11 +13,10 @@ public class questions3and4 {
 		names[4] = "Buck";
 		names[5] = "Bob";
 
-		for (int i = 0; i < names.length; i++){
-		
-		System.out.println(names[i]);
-		
+		System.out.println("First: "+ names[0]);
 	
-		}
+
+		String last = names[names.length-1];
+		System.out.println("Last: " + last);
 	}
 }

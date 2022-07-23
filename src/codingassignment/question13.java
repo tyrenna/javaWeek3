@@ -1,9 +1,9 @@
 package codingassignment;
 
-public class otherpractice {
+public class question13 {
 
 	public static void main(String[] args) {
-		// Coding Step 2a
+		// This was used as practice to arrive at the same solutions for problem 2
 
 
 		String names = "SamTommyTimSallyBuckBob";
